@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363808280294",
+    "project_id": "expendvip",
+    "storage_bucket": "expendvip.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363808280294:android:a82984c92852be10ac3527",
+        "android_client_info": {
+          "package_name": "com.appexpandpremium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7b4hv__86CmY162hXr7TSA1U0C27a6TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
